@@ -1,0 +1,346 @@
+.clear {
+    clear: both;
+}
+
+.main-slider-img {
+    width: 100%;
+}
+
+.btn-primary {
+    color: #fff !important;
+}
+
+.horizontal-offset-100 {
+    padding-bottom: 100px;
+}
+
+.vertical-offset-50 {
+    padding-top: 50px;
+}
+
+.horizontal-offset-50 {
+    padding-bottom: 50px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0px;
+}
+
+#frm_registerForm .help-block, #frm_loginForm .help-block {
+    position: absolute;
+    top: 80%;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.terms-field .help-block {
+    margin-top: 11%;
+    width: 84%;
+}
+
+#frm_changeProfilePic > img {
+    border: 8px solid rgba(103, 197, 223, 1);
+    height: 250px;
+    width: 250px;
+    z-index: 5;
+}
+
+#frm_changeProfilePic input[type="file"] {
+    cursor: pointer;
+    height: 15px;
+    left: 17%;
+    margin-top: -7.5%;
+    opacity: 0;
+    position: relative;
+    width: 66%;
+}
+
+#frm_changeProfilePic a {
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.loader {
+    display: none;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('/assets/img/loading1.gif') 50% 50% no-repeat rgb(255, 255, 255);
+}
+
+.padding-right-30 {
+    padding: 7px 30px 0 0;
+}
+
+#ifr_changeProfileImg {
+    margin-left: 0px; 
+    width: 240px; 
+    height: 300px;
+}
+
+#dv_bankInfoLnk a, #dv_cardInfoLnk a {
+    font-weight: bold;
+}
+
+.right-border {
+    border-right: 2px solid #000;
+}
+
+.purchas-main .container {
+    width: 75%;
+}
+
+.instruction-section .container {
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+
+.instruction-img {
+    height: 315px;
+    margin-top: 23%;
+}
+
+.navbar-brand {
+    height: 100%;
+}
+
+.logo_position {
+    height: 85%;
+    width: 85%;
+}
+
+.lms_position {
+    position: relative;
+    bottom: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.logo .lms_position {
+    background: #fff none repeat scroll 0 0;
+    bottom: 10px;
+    height: 70%;
+    padding: 5px 10px;
+    position: relative;
+    top: 10%;
+    width: 100%;
+}
+
+.container > .navbar-header {
+    margin-bottom: -7%;
+}
+
+.navbar-default .navbar-collapse {
+    clear: both;
+}
+
+.home-slider {
+    position: relative;
+}
+
+.home-slider-desc {
+    color: #fff;
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    width: 50%;
+}
+
+.home-slider-desc h2 {
+    font-size: 3em;
+    border-bottom: 1px solid #008800;
+    line-height: 1.8;
+}
+
+.home-slider-desc div {
+    padding-top: 7%;
+}
+
+.home-slider-desc .btn {
+    width: 30%;
+    color: #fff;
+}
+
+.instruction-section span {
+    text-align: center;
+    text-align: -moz-center;
+}
+
+.purchas-main .media img {
+    height: 70px;
+    width: 70px;
+}
+
+.block-center {
+    text-align : center;
+    text-align: -moz-center;
+}
+
+.bg-border {
+    border-left: none;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: #217118;
+    border-radius: 15px 15px 0px 0px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.clearfix_space {
+    height: 10px;
+}
+
+#dv_registrationConfirm .col-md-6 {
+    float: none;
+}
+
+.height-30 {
+    height: 30px !important;
+}
+
+.greenbgs {
+    background: #217118 !important;
+    color: #fff !important;
+}
+
+.text-green {
+    color: #217118 !important;
+}
+
+.row {
+    padding: 0 15px;
+}
+
+.vertical-offset-50 {
+    padding-top: 50px;
+}
+
+/* form wizard (Profile Info) */
+
+.wizard-inline > .content > .body {
+    width: 100% !important;
+}
+
+.panel-heading span {
+    margin-top: 0px;
+}
+
+.wizard-inline > .content > .body label.error {
+    display: inline-block;
+}
+
+.wizard-inline > .content > .body label {
+    padding: 0px;
+}
+
+/* form wizard (Profile Info) */
+
+/* Dashboard Content */
+#dv_dashboardContent {
+    padding: 50px 0 100px 0;
+}
+
+#dv_dashboardContent a {
+    text-align: left !important;
+}
+
+.home-nav .container .panel-heading {
+    margin-top: -8px;
+}
+
+.home-nav .container .panel-heading:first-child {
+    border-right: 1px solid #fff;
+}
+
+.text-white {
+    color: #fff;
+}
+/* Dashboard Content */
+
+/* styles from login2.css */
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+.input-group-addon {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    color: #555;
+}
+/* styles from login2.css */
+
+/* post a showing page */
+#dv_houseDetails .form-group {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#dv_paymentDetails dl:first-child {
+    border-bottom: 1px solid #217118;
+}
+
+#dv_paymentDetails .dl-horizontal dd {
+    margin-left: 200px;
+}
+
+#dv_paymentDetails .dl-horizontal dt {
+    width: 180px;
+}
+/* post a showing page */
+
+/* showing list page */
+#showings_list a .fa {
+    cursor: pointer;
+}
+
+#dv_modalShowing .house-details {
+    display: inline-block;
+    width: 24%;
+}
+
+#dv_modalShowing .house-details span {
+    list-style: none;
+}
+/* showing list page */
+
+
+.shrtpic {
+   
+    float: right;
+   
+    margin-left: 0px;
+    margin-top: 6px;
+   
+}
+.shortName {
+   border-left: thin solid black;
+    float: left;
+    font-weight: bold;
+    margin-top: 13px;
+    padding-left: 8%;
+}
+.logStatus {
+    margin-right: -17%;
+}
+
+.terms-content {
+    margin-bottom: 61px;
+       width: 65%;
+}
+#first_phone_number {
+    border-radius: 0 4px 4px 0;
+}
+#third_phone_number {
+
+    width: 114%;
+}
+.active_template {
+
+   color: #337ab7 !important;
+}

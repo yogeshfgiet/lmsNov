@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+RewriteRule ^check.php$ check.php?rewrite=on [QSA,L]
+    RewriteRule ^(.*)$ public/$1 [L]
+    
+</IfModule>

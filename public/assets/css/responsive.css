@@ -1,0 +1,118 @@
+@media only screen and
+(min-device-width: 768px) and
+(max-device-width: 1024px), screen and
+(min-width: 900px) and
+(max-width: 1200px) {
+    .home-slider-desc {
+        right: 4%;
+        width: 55%;
+        font-size: 10px;
+    }
+
+    .instruction-img {
+        height: auto;
+        margin-top: 50%;
+    }
+
+    .home-nav .container .panel-heading:first-child {
+        border-right: none;
+    }
+
+    .lms_position {
+        width: 60%;
+        height: 60%;
+        bottom: 0px;
+    }
+}
+
+@media only screen and
+(min-device-width: 500px) and
+(max-device-width: 768px), screen and
+(min-width: 500px) and
+(max-width: 970px) {
+    .home-slider-desc {
+        font-size: 8px;
+        right: 4%;
+        top: 0;
+        width: 60%;
+    }
+
+    .home-slider-desc h2 {
+        font-size: 20px;
+    }
+
+    .home-slider-desc .btn {
+        width: 33%;
+    }
+
+    .right-border {
+        border-right: none;
+        border-bottom: 2px solid #000;
+    }
+
+    .instruction-img {
+        height: auto;
+        margin-top: 10%;
+    }
+
+    .home-nav .container .panel-heading:first-child {
+        border-right: none;
+    }
+
+    .lms_position {
+        width: 60%;
+        height: 60%;
+        bottom: 0px;
+    }
+}
+
+@media only screen and
+    (min-device-width: 320px) and
+    (max-device-width: 500px), screen and
+    (min-width: 320px) and
+    (max-width: 500px) {
+    .home-slider-desc {
+        right: 4%;
+        width: 60%;
+        top: 0px;
+    }
+
+    .home-slider-desc h2 {
+        font-size: 10px;
+        border-bottom: 1px solid #008800;
+        line-height: 1;
+    }
+
+    .home-slider-desc div {
+        padding-top: 5px;
+        font-size: 5px;
+    }
+
+    .home-slider-desc .btn {
+        width: 73%;
+    }
+
+    .right-border {
+        border-right: none;
+        border-bottom: 2px solid #000;
+    }
+
+    .instruction-img {
+        height: auto;
+        margin-top: 10%;
+    }
+
+    .home-nav .container .panel-heading:first-child {
+        border-right: none;
+    }
+
+    .lms_position {
+        width: 60%;
+        height: 60%;
+        bottom: -5px;
+    }
+
+    .navbar-brand {
+        width: 80%;
+    }
+}
